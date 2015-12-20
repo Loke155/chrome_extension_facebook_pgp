@@ -1,2 +1,0 @@
-
-initBackground('popup');
